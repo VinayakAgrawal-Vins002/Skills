@@ -24,4 +24,4 @@ Each of The Three Workbook Contains:
 ## Note
 - [ ] Will Pretty Soon Add a Video Link Showcasing The Interactive Capabilities of The Story Boards of Each Assignment [Video Link Here].
 - [ ] Will Also Add Deployed Links For Direct Web Viewing Through Tableau Public Cloud (Links Given Below).
-   - [ ] [Olypics Story] (https://public.tableau.com/shared/G2R9Y8SN3?:display_count=n&:origin=viz_share_link)
+   - [Olympics Story Web Link Here](https://public.tableau.com/shared/G2R9Y8SN3?:display_count=n&:origin=viz_share_link).
