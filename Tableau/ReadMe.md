@@ -11,6 +11,7 @@ So Basically, Each Workbook is a Project or Assignment. With the Difficulty Leve
 - DetailsToKnow File For Some Conceptual Understanding To Know Before Working with Tableau.
 - Samples Contain Full Screenshot of How My Tableau Desktop Looked. (Proof of Work)
 
+##
 ### For Assignments
 Each of The Three Workbook Contains:
 - A Question File
@@ -21,10 +22,11 @@ Each of The Three Workbook Contains:
 - Dataset Used (`.xls` or `.xlsx` Format)
 - Outputs  (Screenshots of Sheets and Dashboards Created From The Workbook)
 
-## Note
+## Notes
 - [ ] Added a Demo Video (Link Here) Showcasing The Interactive Capabilities of The Dashboards and Story Boards of Each Assignment as Public Cloud Links Below show Lag and not Sized Correctly [Video Link Here].
 - [ ] Added Links For Direct Web Viewing of the Story Boards Through Tableau Public Cloud (Links Given Below).
    - [Olympics Story Web Link Here](https://public.tableau.com/shared/G2R9Y8SN3?:display_count=n&:origin=viz_share_link).
    - [World Bank Story Web Link Here](https://public.tableau.com/shared/RGNZ89G3T?:display_count=n&:origin=viz_share_link).
    - [Amazing Mart Sales Web Sory Here](https://public.tableau.com/shared/HXKD5MM74?:display_count=n&:origin=viz_share_link)
-     For Better Results See the AmzingMart Storyboards in Full Screen or Best To Checkout the Video Above as This is a More Complex One and Harder To View on The Web (Free Tier).
+
+For Better Results See the AmzingMart Storyboards in Full Screen or Best To Checkout the Video Above as This is a More Complex One and Harder To View on The Web (Free Tier).
