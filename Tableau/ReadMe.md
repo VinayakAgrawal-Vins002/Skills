@@ -18,9 +18,10 @@ Each of The Three Workbook Contains:
 - Workbooks:
    - A Simple `.twb` File
    - A Packaged `.twbx` File (Use This One To Download and Use Since It Doesn't Require Any External Data To Render The Workbooks, All Is Packaged Into it Already)
-- Dataset Used (`.xls` and `.xlsx` Format)
+- Dataset Used (`.xls` or `.xlsx` Format)
 - Outputs  (Screenshots of Sheets and Dashboards Created From The Workbook)
 
 ## Note
 - [ ] Will Pretty Soon Add a Video Link Showcasing The Interactive Capabilities of The Story Boards of Each Assignment [Video Link Here].
-- [ ] Will Also Add a Deployed Link For Web Viewing Through Tableau Public Cloud [Tableau Link Here]. 
+- [ ] Will Also Add Deployed Links For Direct Web Viewing Through Tableau Public Cloud (Links Given Below).
+   - [ ] [Olypics Story] (https://public.tableau.com/shared/G2R9Y8SN3?:display_count=n&:origin=viz_share_link)
