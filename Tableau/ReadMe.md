@@ -11,7 +11,7 @@ So Basically, Each Workbook is a Project or Assignment. With the Difficulty Leve
 - DetailsToKnow File For Some Conceptual Understanding To Know Before Working with Tableau.
 
 ### For Assignments
-Each of The Workbook Contains:
+Each of The Three Workbook Contains:
 - A Question File
 - Sample Image Used (Optional)
 - Workbooks:
