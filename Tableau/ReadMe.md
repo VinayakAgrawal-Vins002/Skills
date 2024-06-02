@@ -26,4 +26,4 @@ Each of The Three Workbook Contains:
 - [ ] Added Links For Direct Web Viewing of the Story Boards Through Tableau Public Cloud (Links Given Below).
    - [Olympics Story Web Link Here](https://public.tableau.com/shared/G2R9Y8SN3?:display_count=n&:origin=viz_share_link).
    - [World Bank Story Web Link Here](https://public.tableau.com/shared/RGNZ89G3T?:display_count=n&:origin=viz_share_link).
-   - [Amazing Mart Sales Web Sory Here](https://public.tableau.com/shared/HXKD5MM74?:display_count=n&:origin=viz_share_link)\For Better Results See the AmzingMart Storyboards in Full Screen or Best To Checkout the Video Above as This is a More Complex One and Harder To View on The Web (Free Tier).
+   - [Amazing Mart Sales Web Sory Here](https://public.tableau.com/shared/HXKD5MM74?:display_count=n&:origin=viz_share_link)<br>For Better Results See the AmzingMart Storyboards in Full Screen or Best To Checkout the Video Above as This is a More Complex One and Harder To View on The Web (Free Tier).
