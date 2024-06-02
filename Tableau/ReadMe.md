@@ -20,6 +20,6 @@ Each of The Workbook Contains:
 - Dataset Used (`.xls` and `.xlsx` Format)
 - Outputs  (Screenshots of Sheets and Dashboards Created From The Workbook)
 
-## NOTE
+## Note
 - [ ] Will Pretty Soon Add a Video Link Showcasing The Interactive Capabilities of The Story Boards of Each Assignment [Video Link Here].
 - [ ] Will Also Add a Deployed Link For Web Viewing Through Tableau Public Cloud [Tableau Link Here]. 
