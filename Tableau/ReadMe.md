@@ -21,7 +21,7 @@ Each of The Three Workbook Contains:
 - Dataset Used (`.xls` or `.xlsx` Format)
 - Outputs  (Screenshots of Sheets and Dashboards Created From The Workbook)
 
-<br><br>
+<br>
 
 ## Notes
 - [ ] Added a Demo Video (Link Here) Showcasing The Interactive Capabilities of The Dashboards and Story Boards of Each Assignment as Public Cloud Links Below may Show Lag, Misaligned or may be taken down at some point [Video Linked Here]().
