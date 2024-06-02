@@ -1,6 +1,6 @@
 # Introduction To Tableau
 Hey Guys Just Learnt Working With Tableau For Data Visualization. These are Some of The Projects I was Asked To Complete as a Part of The Course Uploaded all The Relevent Details and my Submissions if you want to go Through It, Hope it Helps you in Some ways or Motivates you To Learn the Skill Yourself. It is useful for Freshers Going For Data Analytics and Such Jobs as  have seen Many Company Demand It as a Pre-Requisite. You Can Access Tableau Desktop For Free With a Student Email ID For Months For Practice, Rather Than Just The Few Days Of The Trial otherwise. Hone Your Skills Much Better. #SkillUp.
-<br>
+ 
 
 ## Structure
 ### For Tableau
