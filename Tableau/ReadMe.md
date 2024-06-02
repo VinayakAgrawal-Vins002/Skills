@@ -9,6 +9,7 @@ So Basically, Each Workbook is a Project or Assignment. With the Difficulty Leve
 - Amazing Mart Sales Being the Third, and most Complex One.
 - ReadME File For Understanding The Project Hierarchy.
 - DetailsToKnow File For Some Conceptual Understanding To Know Before Working with Tableau.
+- Samples Contain Full Screenshot of How My Tableau Desktop Looked. (Proof of Work)
 
 ### For Assignments
 Each of The Three Workbook Contains:
