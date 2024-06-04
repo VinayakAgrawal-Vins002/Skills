@@ -22,7 +22,7 @@ Each of The Three Workbook Contains:
 - Outputs  (Screenshots of Sheets and Dashboards Created From The Workbook)
 
 ## Notes
-- [ ] Added a Demo Video (Link Here) Showcasing The Interactive Capabilities of The Dashboards and Story Boards of Each Assignment as Public Cloud Links Below may Show Lag, Misaligned or may be taken down at some point [Video Linked Here]().
+- [ ] Added a Demo Video [Click Here](https://youtu.be/CTDfbl5z8J8) Showcasing The Interactive Capabilities of The Dashboards and Story Boards of Each Assignment as Public Cloud Links Below may Show Lag, Misaligned or may be taken down at some point [Video Linked Here](https://youtu.be/CTDfbl5z8J8).
 - [ ] Added Links For Direct Web Viewing of the Story Boards Through Tableau Public Cloud (Links Given Below).
    - [Olympics Story Web Link Here](https://public.tableau.com/shared/G2R9Y8SN3?:display_count=n&:origin=viz_share_link).
    - [World Bank Story Web Link Here](https://public.tableau.com/shared/RGNZ89G3T?:display_count=n&:origin=viz_share_link).
