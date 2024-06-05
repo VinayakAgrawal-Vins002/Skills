@@ -9,7 +9,9 @@ So Basically, Each Workbook is a Project or Assignment. With the Difficulty Leve
 - Amazing Mart Sales Being the Third, and most Complex One.
 - ReadME File For Understanding The Project Hierarchy.
 - DetailsToKnow File For Some Conceptual Understanding To Know Before Working with Tableau.
-- Samples Contain Full Screenshot of How My Tableau Desktop Looked. (Proof of Work)
+- Samples Contain Full Screenshot of How My Tableau Desktop Looked. (Proof of Work).
+- Python IPYNB Visualizations File For Matplotlib & Seaborn Plots and Graphs.
+- Udemy Course Certification.
 
 ### For Assignments
 Each of The Three Workbook Contains:
